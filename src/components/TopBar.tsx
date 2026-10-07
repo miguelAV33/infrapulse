@@ -57,7 +57,7 @@ export function TopBar({ route, pendingAlerts, hasCritical }: TopBarProps) {
           </ul>
         </nav>
 
-        <a className="back-link" href="https://github.com/HookMike/infrapulse">Ver código en GitHub</a>
+        <a className="back-link" href="https://github.com/miguelAV33/infrapulse">Ver código en GitHub</a>
       </div>
     </header>
   );

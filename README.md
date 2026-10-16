@@ -6,7 +6,7 @@ Muestra en tiempo real el estado de 10 servidores (CPU, memoria, red, discos, se
 
 > **Todos los datos son simulados en el navegador.** No hay servidores reales ni backend: la flota, las métricas, los incidentes y las acciones (reinicios, reconocimientos) solo existen en la simulación, y la propia interfaz lo indica en todo momento.
 
-**Demo:** https://tu-dominio.netlify.app/demo-infrapulse/
+**Demo:** https://miguelangel-alonso.netlify.app/demo-infrapulse/
 
 ![Resumen de la flota](docs/infrapulse-overview.png)
 

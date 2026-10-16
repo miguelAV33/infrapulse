@@ -32,7 +32,7 @@ export function TopBar({ route, pendingAlerts, hasCritical }: TopBarProps) {
   return (
     <header className="topbar">
       <div className="topbar__inner">
-        <a className="topbar__brand" href="https://tu-dominio.netlify.app/"><span className="mark">{'{ }'}</span> InfraPulse</a>
+        <a className="topbar__brand" href="https://miguelangel-alonso.netlify.app/"><span className="mark">{'{ }'}</span> InfraPulse</a>
 
         <nav className="mainnav" aria-label="Secciones">
           <ul className="mainnav__list">
